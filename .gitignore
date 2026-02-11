@@ -1,0 +1,5 @@
+node_modules/
+cache/images/*
+!cache/images/.gitkeep
+dist/*.pptx
+dist/*.pdf

@@ -1,0 +1,64 @@
+{
+  "lessonId": "lesson-01",
+  "title": "Absztrakt expresszionizmus – Bevezető óra",
+  "slides": [
+    {
+      "type": "title",
+      "title": "Absztrakt expresszionizmus",
+      "subtitle": "Mozgalom, mesterek, vizuális nyelv",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/a/a8/No._5%2C_1948.jpg",
+        "caption": "Jackson Pollock: No. 5, 1948",
+        "credit": {
+          "url": "https://en.wikipedia.org/wiki/No._5,_1948"
+        }
+      }
+    },
+    {
+      "type": "fullbleed",
+      "title": "Gesturalitás és dinamika",
+      "body": "A vászon mint eseménytér: a mozdulat nyoma válik kompozícióvá.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/7/7d/Convergence_by_Jackson_Pollock.jpg",
+        "caption": "Jackson Pollock: Convergence (1952)",
+        "credit": {
+          "url": "https://en.wikipedia.org/wiki/Convergence_(Pollock)"
+        }
+      }
+    },
+    {
+      "type": "gallery",
+      "title": "Kulcsművek rövid áttekintése",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/5f/Mark_Rothko%2C_1951%2C_No_14.jpg",
+          "caption": "Mark Rothko: No. 14 (1951)",
+          "credit": {
+            "url": "https://en.wikipedia.org/wiki/Mark_Rothko"
+          }
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Willem_de_Kooning%2C_1950%2C_Excavation.jpg",
+          "caption": "Willem de Kooning: Excavation",
+          "credit": {
+            "url": "https://en.wikipedia.org/wiki/Willem_de_Kooning"
+          }
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Barnett_Newman_Vir_Heroicus_Sublimis.jpg",
+          "caption": "Barnett Newman: Vir Heroicus Sublimis",
+          "credit": {
+            "url": "https://en.wikipedia.org/wiki/Barnett_Newman"
+          }
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/24/Clyfford_Still_PH-971.jpg",
+          "caption": "Clyfford Still: PH-971",
+          "credit": {
+            "url": "https://en.wikipedia.org/wiki/Clyfford_Still"
+          }
+        }
+      ]
+    }
+  ]
+}
